@@ -1,10 +1,10 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OTL:	Comme femme
-!!!AGN:	Fragment; Song; Chanson
-!!!SCT:	Tin3002
-!!!SCA:	Tin3002
-!!!voices:	1
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OTL: Comme femme
+!!!AGN: Fragment; Song; Chanson
+!!!SCT: Tin3002
+!!!SCA: Tin3002
+!!!voices: 1
 **kern
 *staff1
 *Ivox
@@ -555,9 +555,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 02-05-2015
-!!!END:	2015/02/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/21/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/21/ by Craig Sapp
+!!!ENC: Chris Gage 02-05-2015
+!!!END: 2015/02/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/21/
+!!!ONB: Translated from MusicXML and edited on 2015/03/21/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v150Q16c70

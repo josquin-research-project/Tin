@@ -1,10 +1,10 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OTL:	Le souvenir i
-!!!AGN:	Song; Chanson
-!!!SCT:	Tin3006
-!!!SCA:	Tin3006
-!!!voices:	2
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OTL: Le souvenir i
+!!!AGN: Song; Chanson
+!!!SCT: Tin3006
+!!!SCA: Tin3006
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -355,9 +355,9 @@
 *-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 01-29-2015
-!!!END:	2015/02/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 01-29-2015
+!!!END: 2015/02/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,150Q16

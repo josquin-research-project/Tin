@@ -1,10 +1,10 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OTL:	O invida fortuna
-!!!AGN:	Song; Chanson
-!!!SCT:	Tin3008
-!!!SCA:	Tin3008
-!!!voices:	3
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OTL: O invida fortuna
+!!!AGN: Song; Chanson
+!!!SCT: Tin3008
+!!!SCA: Tin3008
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -193,9 +193,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 01-29-2015
-!!!END:	2015/03/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 01-29-2015
+!!!END: 2015/03/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16

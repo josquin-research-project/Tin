@@ -1,13 +1,13 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OPR:	Missa Sine nomine i
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	Tin1002a
-!!!SCA:	Tin1002a
-!!!voices:	3
-!!!voices-OPR:	3
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OPR: Missa Sine nomine i
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Tin1002a
+!!!SCA: Tin1002a
+!!!voices: 3
+!!!voices-OPR: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -505,9 +505,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 01-09-2015
-!!!END:	2015/01/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 01-09-2015
+!!!END: 2015/01/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,150Q16

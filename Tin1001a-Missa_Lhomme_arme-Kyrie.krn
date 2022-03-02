@@ -1,13 +1,13 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OPR:	Missa L'homme arm&eacute;
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	Tin1001a
-!!!SCA:	Tin1001a
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OPR: Missa L'homme arm&eacute;
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Tin1001a
+!!!SCA: Tin1001a
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -844,9 +844,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Complete Works (Melin)
-!!!END:	2014/06/10/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/06/12/
-!!!ONB:	Translated from MusicXML and edited on 2014/06/12/ by Craig Sapp
+!!!ENC: Complete Works (Melin)
+!!!END: 2014/06/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/06/12/
+!!!ONB: Translated from MusicXML and edited on 2014/06/12/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v105,85,85,150c160

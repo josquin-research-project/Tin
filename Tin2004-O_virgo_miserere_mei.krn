@@ -1,10 +1,10 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OTL:	O virgo miserere mei
-!!!AGN:	Motet
-!!!SCT:	Tin2004
-!!!SCA:	Tin2004
-!!!voices:	3
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OTL: O virgo miserere mei
+!!!AGN: Motet
+!!!SCT: Tin2004
+!!!SCA: Tin2004
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -283,9 +283,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 01-29-2015
-!!!END:	2015/02/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/21/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/21/ by Craig Sapp
+!!!ENC: Chris Gage 01-29-2015
+!!!END: 2015/02/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/21/
+!!!ONB: Translated from MusicXML and edited on 2015/03/21/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16

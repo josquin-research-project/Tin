@@ -1,10 +1,10 @@
-!!!COM:	Tinctoris, Johannes
-!!!CDT:	~1435///-1511//
-!!!OTL:	Lamentationes Jeremie
-!!!AGN:	Motet
-!!!SCT:	Tin2003
-!!!SCA:	Tin2003
-!!!voices:	4
+!!!COM: Tinctoris, Johannes
+!!!CDT: ~1435///-1511//
+!!!OTL: Lamentationes Jeremie
+!!!AGN: Motet
+!!!SCT: Tin2003
+!!!SCA: Tin2003
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1432,9 +1432,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 01-29-2015
-!!!END:	2015/01/30/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/21/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/21/ by Craig Sapp
+!!!ENC: Chris Gage 01-29-2015
+!!!END: 2015/01/30/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/21/
+!!!ONB: Translated from MusicXML and edited on 2015/03/21/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16
